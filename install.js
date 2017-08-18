@@ -21,7 +21,7 @@ if (!fs.existsSync(pngdefy_bin_dir)) {
     fs.mkdirSync(pngdefy_bin_dir, '755');
 }
 
-var url = "https://dl.dropboxusercontent.com/u/1983881/open_source_dependencies/pngdefry-master.zip";
+var url = "https://github.com/xysec/pngdefry/archive/master.zip";
 var tempFile = tmp_dir + "/pngdefry-" + (new Date().getTime()) + ".zip";
 
 function attemptDownload(attemptsLeft) {
