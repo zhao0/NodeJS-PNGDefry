@@ -1,15 +1,11 @@
 {
     "name": "node-pngdefry-cn",
-    "version": "0.0.6",
+    "version": "0.0.7",
     "description": "This is a nodejs wrapper for pngdefry command line tool that reverses the optimization XCode does on png images included into iPA files to make the images readable by the browser.",
     "main": "./lib/index.js",
     "scripts": {
         "test": "node tests/test.js",
         "install": "node install.js"
-    },
-    "dependencies": {
-        "wget": "*",
-        "adm-zip": "*"
     },
     "keywords": [
     "png",
