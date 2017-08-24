@@ -1,5 +1,5 @@
 {
-    "name": "node-pngdefry",
+    "name": "node-pngdefry-cn",
     "version": "0.0.6",
     "description": "This is a nodejs wrapper for pngdefry command line tool that reverses the optimization XCode does on png images included into iPA files to make the images readable by the browser.",
     "main": "./lib/index.js",
@@ -21,10 +21,10 @@
     "devDependencies": { "test": ">=0.0.5" },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Startappz/NodeJS-PNGDefry.git"
+        "url": "https://github.com/zhao0/NodeJS-PNGDefry.git"
     },
     "bugs": {
-        "url": "https://github.com/Startappz/NodeJS-PNGDefry/issues"
+        "url": "https://github.com/zhao0/NodeJS-PNGDefry/issues"
     },
-    "homepage": "https://github.com/Startappz/NodeJS-PNGDefry"
+    "homepage": "https://github.com/zhao0/NodeJS-PNGDefry"
 }

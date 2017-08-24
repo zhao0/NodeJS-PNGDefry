@@ -1,5 +1,7 @@
-node-pngdefry
+node-pngdefry-cn
 ==============
+A fork of [node-pngdefry](https://github.com/Startappz/NodeJS-PNGDefry) using github source.
+
 This is a nodejs wrapper for pngdefry command line tool that reverses the optimization XCode does on png images included into iPA files to make the images readable by the browser.
 
 ### Why you may need it ?
@@ -17,7 +19,7 @@ Apple uses [PNGCursh](http://pmt.sourceforge.net/pngcrush/) open source library 
 
 ### Installation
 
-[![NPM](https://nodei.co/npm/node-pngdefry.png)](https://nodei.co/npm/node-pngdefry/)
+[![NPM](https://nodei.co/npm/node-pngdefry-cn.png)](https://nodei.co/npm/node-pngdefry-cn/)
 
 ### Usage
 
